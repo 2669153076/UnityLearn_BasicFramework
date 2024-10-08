@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\test\\event\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\event\\other.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\projectbase\\event\\eventcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\event\\eventcenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\test\\controller\\inputtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\controller\\inputtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\test\\event\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\event\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\test\\event\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\event\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\test\\event\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\event\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\projectbase\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|e:\\unity3d\\unityteach\\unitylearn_basicframework\\assets\\scripts\\projectbase\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\pool\\poolmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\assets\\scripts\\projectbase\\ui\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\ui\\loginpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\assets\\scripts\\projectbase\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26AD9F29-F041-DD83-B543-0933682FB90A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectbase\\ui\\basepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Event\\Monster.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Monster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Event\\Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:11:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Other.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Other.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Event\\Other.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Other.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Event\\Other.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:10:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Event\\Player.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Event\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:10:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Task.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Event\\Task.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Event\\Task.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Event\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:10:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputTest.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Controller\\InputTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\Controller\\InputTest.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\Test\\Controller\\InputTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Test\\Controller\\InputTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:09:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventCenter.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\Event\\EventCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\Event\\EventCenter.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\Event\\EventCenter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\Event\\EventCenter.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:01:33.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoolMgr.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\Pool\\PoolMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\Pool\\PoolMgr.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\Pool\\PoolMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\Pool\\PoolMgr.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAA0wFIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:53:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\UI\\LoginPanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\LoginPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\UI\\LoginPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:03:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\UI\\BasePanel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:34:45.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ProjectBase\\UI\\UIManager.cs",
+              "ToolTip": "E:\\Unity3D\\UnityTeach\\UnityLearn_BasicFramework\\Assets\\Scripts\\ProjectBase\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ProjectBase\\UI\\UIManager.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T12:34:35.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
